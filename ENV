@@ -1,0 +1,21 @@
+{
+	"id": "ff99ccf5-b927-44db-94f5-3f9ebbfaf0ad",
+	"name": "Local",
+	"values": [
+		{
+			"key": "Local",
+			"value": "https://jsonplaceholder.typicode.com/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-03-19T05:22:20.970Z",
+	"_postman_exported_using": "Postman/11.37.0"
+}
